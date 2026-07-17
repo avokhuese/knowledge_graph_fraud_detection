@@ -1,1 +1,1 @@
-# knowledge_graph_fraud_detection
+# Knowledge Graph Fraud Detection
