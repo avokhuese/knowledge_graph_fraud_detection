@@ -1,0 +1,201 @@
+npi,provider_name,provider_type,taxonomy_code,specialty,license_state,enrollment_date
+1787846414,Provider_0,Individual,207Q00000X,Family Medicine,CA,2021-04-11
+9839401802,Provider_1,Individual,207Q00000X,Radiology,TX,2021-10-23
+5165731073,Provider_2,Individual,208D00000X,Internal Medicine,CA,2020-07-10
+2306710475,Provider_3,Individual,207Q00000X,Radiology,NY,2021-07-14
+8667272366,Provider_4,Individual,207R00000X,Nurse Practitioner,FL,2021-05-19
+2934879560,Provider_5,Individual,207R00000X,Family Medicine,FL,2020-01-14
+6950318585,Provider_6,Individual,207Q00000X,Internal Medicine,FL,2020-04-01
+4578544903,Provider_7,Individual,208D00000X,Family Medicine,FL,2021-07-15
+7120997885,Provider_8,Individual,208D00000X,Radiology,IL,2021-04-21
+7226646571,Provider_9,Organization,208D00000X,Radiology,IL,2020-09-27
+5128202429,Provider_10,Individual,207R00000X,Family Medicine,CA,2020-02-22
+2206604539,Provider_11,Individual,207Q00000X,Family Medicine,PA,2020-01-15
+1320192576,Provider_12,Individual,207Q00000X,Radiology,NY,2021-10-09
+4055190407,Provider_13,Individual,207Q00000X,Nurse Practitioner,PA,2021-05-04
+4929721883,Provider_14,Organization,207R00000X,Radiology,CA,2020-02-02
+2644658402,Provider_15,Individual,208D00000X,Nurse Practitioner,NY,2020-01-05
+6308514806,Provider_16,Individual,363LF0000X,Nurse Practitioner,NY,2020-07-25
+7181903227,Provider_17,Individual,363LF0000X,Radiology,NY,2021-07-17
+3184294495,Provider_18,Individual,207Q00000X,Nurse Practitioner,PA,2021-10-16
+9076547867,Provider_19,Organization,207Q00000X,Internal Medicine,NY,2021-10-07
+7611424586,Provider_20,Individual,363LF0000X,Radiology,NY,2020-08-18
+5767636704,Provider_21,Individual,363LF0000X,Internal Medicine,NY,2021-09-19
+4696809704,Provider_22,Individual,208D00000X,Radiology,TX,2021-10-10
+6248913060,Provider_23,Individual,208D00000X,Radiology,TX,2021-01-08
+9468739568,Provider_24,Individual,207R00000X,Internal Medicine,CA,2021-01-21
+1636028516,Provider_25,Individual,207Q00000X,Nurse Practitioner,NY,2020-01-02
+7060357851,Provider_26,Individual,207Q00000X,Radiology,NY,2021-01-19
+7575313972,Provider_27,Individual,207R00000X,Internal Medicine,FL,2021-03-14
+7007905237,Provider_28,Individual,207R00000X,Radiology,NY,2020-07-19
+8283460559,Provider_29,Individual,207R00000X,Radiology,TX,2021-02-06
+7494390210,Provider_30,Organization,207R00000X,Radiology,FL,2021-05-03
+2707558823,Provider_31,Individual,208D00000X,Radiology,NY,2021-04-17
+9266496150,Provider_32,Individual,208D00000X,Nurse Practitioner,FL,2020-05-23
+9513348207,Provider_33,Individual,207R00000X,Family Medicine,CA,2020-10-30
+9148479627,Provider_34,Individual,207R00000X,Nurse Practitioner,NY,2020-08-20
+8168249959,Provider_35,Individual,363LF0000X,Radiology,IL,2021-04-17
+2219431313,Provider_36,Individual,208D00000X,Internal Medicine,IL,2020-06-11
+1755593187,Provider_37,Individual,207Q00000X,Internal Medicine,PA,2021-05-18
+2323111039,Provider_38,Individual,207R00000X,Nurse Practitioner,TX,2021-04-14
+7828443293,Provider_39,Organization,207Q00000X,Nurse Practitioner,IL,2020-10-09
+3158809885,Provider_40,Individual,363LF0000X,Radiology,NY,2021-03-28
+9392059356,Provider_41,Individual,208D00000X,Nurse Practitioner,FL,2020-02-06
+3374107437,Provider_42,Organization,363LF0000X,Radiology,NY,2020-04-25
+1819956639,Provider_43,Organization,207R00000X,Nurse Practitioner,CA,2021-07-19
+9289359170,Provider_44,Individual,207R00000X,Internal Medicine,IL,2021-10-24
+6386591870,Provider_45,Individual,208D00000X,Internal Medicine,NY,2020-04-13
+1586784136,Provider_46,Individual,207R00000X,Nurse Practitioner,PA,2021-11-12
+3626431383,Provider_47,Organization,208D00000X,Nurse Practitioner,NY,2020-02-05
+1834400275,Provider_48,Individual,207R00000X,Internal Medicine,IL,2021-04-15
+5698616641,Provider_49,Individual,363LF0000X,Internal Medicine,TX,2021-10-26
+7625608254,Provider_50,Organization,208D00000X,Internal Medicine,CA,2020-12-07
+1160409267,Provider_51,Individual,363LF0000X,Internal Medicine,TX,2021-03-19
+3243017696,Provider_52,Organization,207R00000X,Radiology,FL,2020-01-05
+9956499139,Provider_53,Organization,207R00000X,Radiology,IL,2020-02-16
+7512460411,Provider_54,Individual,363LF0000X,Family Medicine,TX,2021-08-26
+5631934902,Provider_55,Individual,208D00000X,Family Medicine,IL,2020-05-06
+3957084555,Provider_56,Individual,208D00000X,Internal Medicine,NY,2020-04-05
+5698150005,Provider_57,Individual,207R00000X,Family Medicine,PA,2020-09-28
+4169243110,Provider_58,Individual,207Q00000X,Internal Medicine,PA,2020-09-03
+6823858319,Provider_59,Individual,208D00000X,Family Medicine,PA,2020-08-07
+1404401198,Provider_60,Individual,208D00000X,Internal Medicine,FL,2021-03-28
+8573592537,Provider_61,Individual,363LF0000X,Radiology,NY,2020-09-10
+8085724004,Provider_62,Individual,208D00000X,Internal Medicine,PA,2020-04-09
+6415496883,Provider_63,Individual,208D00000X,Nurse Practitioner,CA,2021-08-30
+3316608503,Provider_64,Individual,207R00000X,Radiology,CA,2021-05-11
+2968181152,Provider_65,Organization,363LF0000X,Family Medicine,FL,2021-07-30
+3798105767,Provider_66,Organization,207R00000X,Family Medicine,PA,2020-01-12
+5462312700,Provider_67,Individual,363LF0000X,Nurse Practitioner,NY,2020-03-30
+8222475721,Provider_68,Individual,208D00000X,Nurse Practitioner,NY,2020-07-14
+8287430644,Provider_69,Individual,363LF0000X,Family Medicine,FL,2021-12-29
+5155726844,Provider_70,Individual,208D00000X,Family Medicine,NY,2020-07-10
+4334668262,Provider_71,Individual,363LF0000X,Internal Medicine,PA,2021-01-03
+9171402512,Provider_72,Individual,207R00000X,Radiology,NY,2020-12-07
+4846243002,Provider_73,Individual,207R00000X,Radiology,PA,2020-08-20
+9982007883,Provider_74,Individual,207R00000X,Internal Medicine,FL,2021-05-20
+9947638415,Provider_75,Individual,363LF0000X,Radiology,NY,2021-04-13
+1487326758,Provider_76,Individual,208D00000X,Internal Medicine,IL,2020-08-10
+7191326340,Provider_77,Individual,207Q00000X,Nurse Practitioner,TX,2021-10-19
+4270663241,Provider_78,Organization,207Q00000X,Family Medicine,IL,2021-06-02
+8305606796,Provider_79,Individual,207Q00000X,Internal Medicine,TX,2021-09-25
+5644357636,Provider_80,Individual,208D00000X,Nurse Practitioner,PA,2020-12-07
+3542142764,Provider_81,Individual,208D00000X,Radiology,TX,2021-03-20
+9187729753,Provider_82,Individual,208D00000X,Nurse Practitioner,PA,2021-10-14
+7307849435,Provider_83,Individual,207R00000X,Radiology,PA,2020-12-26
+2610056894,Provider_84,Individual,207Q00000X,Radiology,NY,2020-04-26
+8740000313,Provider_85,Individual,207R00000X,Family Medicine,PA,2020-05-28
+5264751306,Provider_86,Organization,207R00000X,Nurse Practitioner,TX,2021-06-15
+3246688145,Provider_87,Individual,207Q00000X,Internal Medicine,NY,2021-01-07
+7804578165,Provider_88,Individual,363LF0000X,Family Medicine,TX,2020-01-12
+9376953567,Provider_89,Individual,208D00000X,Radiology,FL,2021-01-07
+6962567303,Provider_90,Individual,208D00000X,Radiology,FL,2020-02-10
+2329410976,Provider_91,Individual,207Q00000X,Radiology,PA,2021-07-11
+9374326865,Provider_92,Individual,207Q00000X,Nurse Practitioner,NY,2021-03-25
+9301005623,Provider_93,Organization,363LF0000X,Family Medicine,PA,2020-04-28
+8776267328,Provider_94,Individual,363LF0000X,Family Medicine,TX,2020-10-08
+8856200506,Provider_95,Organization,207Q00000X,Family Medicine,CA,2020-04-14
+1058720660,Provider_96,Individual,208D00000X,Radiology,NY,2021-12-09
+9216984322,Provider_97,Individual,207Q00000X,Family Medicine,PA,2021-12-14
+6917823058,Provider_98,Individual,208D00000X,Family Medicine,IL,2020-01-01
+1890035971,Provider_99,Individual,207Q00000X,Radiology,CA,2020-12-13
+7529671841,Provider_100,Individual,363LF0000X,Nurse Practitioner,CA,2020-09-24
+3370421813,Provider_101,Organization,208D00000X,Internal Medicine,TX,2021-02-04
+3746036109,Provider_102,Individual,363LF0000X,Nurse Practitioner,IL,2021-12-04
+7906684721,Provider_103,Individual,208D00000X,Nurse Practitioner,TX,2021-03-10
+7231612896,Provider_104,Individual,207R00000X,Internal Medicine,CA,2021-07-16
+5078160004,Provider_105,Individual,208D00000X,Radiology,NY,2020-11-25
+2109151227,Provider_106,Individual,207Q00000X,Internal Medicine,IL,2020-02-22
+6706944716,Provider_107,Individual,363LF0000X,Radiology,TX,2020-04-20
+2976196758,Provider_108,Individual,363LF0000X,Nurse Practitioner,IL,2021-06-03
+4851676866,Provider_109,Organization,363LF0000X,Family Medicine,CA,2020-03-01
+6256391730,Provider_110,Individual,207Q00000X,Internal Medicine,FL,2021-11-12
+1136600085,Provider_111,Individual,207Q00000X,Family Medicine,NY,2021-06-07
+9135601197,Provider_112,Individual,208D00000X,Internal Medicine,PA,2020-03-13
+8728408824,Provider_113,Individual,208D00000X,Nurse Practitioner,IL,2020-04-16
+1011145552,Provider_114,Individual,207Q00000X,Radiology,NY,2020-09-09
+7950351321,Provider_115,Individual,208D00000X,Radiology,CA,2020-12-30
+5452520461,Provider_116,Individual,363LF0000X,Nurse Practitioner,TX,2021-09-14
+7216588793,Provider_117,Individual,363LF0000X,Nurse Practitioner,NY,2021-09-22
+1782903323,Provider_118,Individual,207Q00000X,Family Medicine,IL,2021-04-18
+5809341739,Provider_119,Individual,207Q00000X,Radiology,NY,2021-08-02
+8684431938,Provider_120,Individual,208D00000X,Nurse Practitioner,FL,2020-04-20
+7815430689,Provider_121,Individual,207R00000X,Family Medicine,FL,2021-08-17
+6513775528,Provider_122,Individual,207R00000X,Internal Medicine,CA,2021-03-18
+2418835909,Provider_123,Individual,207Q00000X,Family Medicine,IL,2020-10-03
+6864162885,Provider_124,Individual,207R00000X,Internal Medicine,TX,2021-03-21
+8756130653,Provider_125,Individual,363LF0000X,Family Medicine,TX,2020-08-30
+5219284003,Provider_126,Organization,208D00000X,Internal Medicine,FL,2020-03-15
+9482848885,Provider_127,Individual,207R00000X,Internal Medicine,TX,2021-07-27
+4085750465,Provider_128,Individual,207R00000X,Internal Medicine,TX,2020-06-21
+9452470169,Provider_129,Individual,363LF0000X,Radiology,NY,2021-06-15
+3275645579,Provider_130,Individual,208D00000X,Internal Medicine,IL,2020-05-18
+3287454186,Provider_131,Individual,208D00000X,Internal Medicine,CA,2020-09-17
+3940212391,Provider_132,Organization,207Q00000X,Nurse Practitioner,PA,2020-11-24
+1501205768,Provider_133,Individual,207R00000X,Internal Medicine,TX,2021-08-28
+4567483197,Provider_134,Individual,208D00000X,Internal Medicine,PA,2021-01-10
+6073357387,Provider_135,Individual,207Q00000X,Radiology,IL,2021-07-25
+4223381220,Provider_136,Individual,208D00000X,Nurse Practitioner,PA,2020-06-13
+2012288338,Provider_137,Individual,208D00000X,Internal Medicine,FL,2021-08-23
+3526757929,Provider_138,Individual,207R00000X,Radiology,IL,2021-11-21
+2294408101,Provider_139,Individual,363LF0000X,Nurse Practitioner,NY,2021-10-26
+4863643360,Provider_140,Individual,208D00000X,Internal Medicine,PA,2021-09-07
+9331515525,Provider_141,Individual,363LF0000X,Radiology,CA,2021-03-23
+3291197939,Provider_142,Individual,363LF0000X,Radiology,PA,2021-07-03
+2338836064,Provider_143,Individual,363LF0000X,Nurse Practitioner,NY,2020-09-10
+8569702409,Provider_144,Individual,208D00000X,Family Medicine,IL,2020-06-07
+1547559639,Provider_145,Individual,363LF0000X,Family Medicine,PA,2020-06-05
+5347379098,Provider_146,Individual,363LF0000X,Radiology,FL,2020-10-09
+4551073939,Provider_147,Individual,208D00000X,Radiology,IL,2020-05-13
+7936158570,Provider_148,Individual,207Q00000X,Radiology,IL,2020-07-28
+2099578336,Provider_149,Individual,207R00000X,Nurse Practitioner,FL,2020-12-21
+4962104695,Provider_150,Individual,363LF0000X,Internal Medicine,NY,2021-08-26
+2821627381,Provider_151,Individual,208D00000X,Radiology,NY,2021-12-26
+1486353709,Provider_152,Individual,208D00000X,Internal Medicine,FL,2020-06-30
+4736176446,Provider_153,Individual,363LF0000X,Radiology,PA,2021-03-06
+4196527924,Provider_154,Individual,207R00000X,Family Medicine,PA,2021-10-27
+1490774306,Provider_155,Individual,207Q00000X,Internal Medicine,TX,2021-01-20
+6052543639,Provider_156,Individual,207R00000X,Internal Medicine,PA,2020-06-09
+4352203548,Provider_157,Individual,208D00000X,Internal Medicine,FL,2021-04-13
+1764658630,Provider_158,Organization,207Q00000X,Family Medicine,FL,2021-09-21
+5661541339,Provider_159,Individual,207R00000X,Family Medicine,NY,2020-05-20
+8516022998,Provider_160,Individual,207R00000X,Nurse Practitioner,IL,2020-02-01
+6113964828,Provider_161,Individual,207Q00000X,Internal Medicine,TX,2020-01-18
+4330865741,Provider_162,Individual,208D00000X,Internal Medicine,IL,2020-04-22
+7429617373,Provider_163,Individual,363LF0000X,Radiology,NY,2020-09-20
+1324284470,Provider_164,Organization,207R00000X,Internal Medicine,CA,2020-06-10
+9018677126,Provider_165,Individual,207Q00000X,Family Medicine,TX,2021-03-18
+9674590716,Provider_166,Individual,207Q00000X,Nurse Practitioner,PA,2021-08-01
+8860734442,Provider_167,Organization,207R00000X,Family Medicine,IL,2021-04-13
+6554027230,Provider_168,Individual,208D00000X,Nurse Practitioner,CA,2021-11-03
+4764298642,Provider_169,Individual,207R00000X,Internal Medicine,CA,2021-12-09
+8838776318,Provider_170,Individual,363LF0000X,Nurse Practitioner,FL,2021-06-15
+2482588964,Provider_171,Individual,208D00000X,Family Medicine,CA,2020-02-22
+8644005739,Provider_172,Individual,208D00000X,Internal Medicine,TX,2021-12-27
+3082107249,Provider_173,Individual,208D00000X,Family Medicine,CA,2020-08-24
+2107619174,Provider_174,Individual,208D00000X,Nurse Practitioner,IL,2020-01-04
+7552789433,Provider_175,Organization,208D00000X,Nurse Practitioner,PA,2020-03-15
+9221850769,Provider_176,Individual,208D00000X,Radiology,NY,2020-02-03
+2740527268,Provider_177,Individual,208D00000X,Radiology,PA,2020-12-07
+2132513306,Provider_178,Organization,208D00000X,Nurse Practitioner,CA,2020-09-24
+3856310776,Provider_179,Individual,208D00000X,Family Medicine,NY,2021-04-20
+7523701881,Provider_180,Individual,208D00000X,Radiology,IL,2020-12-28
+1355617586,Provider_181,Individual,363LF0000X,Internal Medicine,PA,2020-05-28
+7339588193,Provider_182,Individual,207R00000X,Internal Medicine,IL,2020-03-09
+5428897827,Provider_183,Individual,363LF0000X,Nurse Practitioner,FL,2021-05-05
+3131876797,Provider_184,Organization,363LF0000X,Internal Medicine,NY,2020-06-02
+5752803316,Provider_185,Individual,207R00000X,Family Medicine,NY,2020-08-04
+3956665770,Provider_186,Individual,207Q00000X,Nurse Practitioner,TX,2020-05-10
+8728432356,Provider_187,Individual,363LF0000X,Internal Medicine,IL,2021-06-07
+4393082384,Provider_188,Organization,363LF0000X,Family Medicine,FL,2020-11-13
+3829453014,Provider_189,Individual,207R00000X,Internal Medicine,NY,2021-04-10
+3777404683,Provider_190,Individual,208D00000X,Family Medicine,PA,2021-06-21
+9779623711,Provider_191,Individual,363LF0000X,Family Medicine,CA,2020-03-26
+6638668678,Provider_192,Individual,207Q00000X,Nurse Practitioner,NY,2021-11-18
+3036734545,Provider_193,Individual,207R00000X,Nurse Practitioner,TX,2021-02-05
+9748881168,Provider_194,Individual,207R00000X,Nurse Practitioner,FL,2020-07-06
+1330511457,Provider_195,Organization,363LF0000X,Radiology,CA,2020-07-01
+9870637931,Provider_196,Individual,207R00000X,Family Medicine,FL,2020-12-14
+6663998872,Provider_197,Individual,207Q00000X,Radiology,PA,2021-03-01
+5399767862,Provider_198,Individual,208D00000X,Internal Medicine,TX,2020-05-20
+9328232351,Provider_199,Organization,363LF0000X,Nurse Practitioner,IL,2020-01-29
